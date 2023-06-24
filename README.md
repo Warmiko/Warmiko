@@ -1,4 +1,4 @@
-## Hi 👋 My name is Niko and I am a programmer!
+## Hi 👋 My name is Niko and I am a programmer! I program in C++ and Python and want to become an ML engineer in the future.
 
 <!--
 **Warmiko/Warmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
